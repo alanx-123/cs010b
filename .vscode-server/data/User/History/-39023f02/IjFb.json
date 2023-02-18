@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "DuoTone Dark Space",
+    "debug.autoExpandLazyVariables": true,
+    "code-runner.runInTerminal": true,
+    "liveServer.settings.fullReload": true,
+    "liveshare.allowGuestTaskControl": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 100
+}

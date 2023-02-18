@@ -1,0 +1,111 @@
+[2023-01-12T19:48:33.285Z] Log level: Info
+[2023-01-12T19:48:33.289Z] [info] Validating found git in: git
+[2023-01-12T19:48:33.316Z] [info] Using git 2.31.1 from git
+[2023-01-12T19:48:33.336Z] > git rev-parse --show-toplevel [7ms]
+[2023-01-12T19:48:33.336Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2023-01-12T19:48:33.344Z] > git rev-parse --show-toplevel [2ms]
+[2023-01-12T19:48:33.344Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2023-01-12T19:48:33.348Z] > git rev-parse --show-toplevel [1ms]
+[2023-01-12T19:48:33.348Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2023-01-12T19:49:19.998Z] > git rev-parse --show-toplevel [2ms]
+[2023-01-12T19:49:19.998Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2023-01-12T19:49:53.724Z] > git rev-parse --show-toplevel [1ms]
+[2023-01-12T19:49:53.724Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2023-01-12T19:50:00.851Z] > git rev-parse --show-toplevel [1ms]
+[2023-01-12T19:50:00.851Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2023-01-12T19:50:00.856Z] > git rev-parse --show-toplevel [1ms]
+[2023-01-12T19:50:00.856Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2023-01-12T19:50:02.835Z] > git rev-parse --show-toplevel [1ms]
+[2023-01-12T19:50:02.835Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2023-01-12T19:50:51.255Z] > git rev-parse --show-toplevel [2ms]
+[2023-01-12T19:50:51.255Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2023-01-12T19:51:24.094Z] > git rev-parse --show-toplevel [2ms]
+[2023-01-12T19:51:24.094Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2023-01-12T19:52:35.179Z] > git rev-parse --show-toplevel [1ms]
+[2023-01-12T19:52:35.179Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2023-01-12T19:52:36.476Z] > git rev-parse --show-toplevel [1ms]
+[2023-01-12T19:52:36.476Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2023-01-12T19:52:38.883Z] > git rev-parse --show-toplevel [1ms]
+[2023-01-12T19:52:38.883Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2023-01-12T19:52:58.132Z] > git rev-parse --show-toplevel [1ms]
+[2023-01-12T19:52:58.132Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2023-01-12T19:53:00.311Z] > git rev-parse --show-toplevel [1ms]
+[2023-01-12T19:53:00.311Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2023-01-12T19:55:16.227Z] > git rev-parse --show-toplevel [2ms]
+[2023-01-12T19:55:16.227Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2023-01-12T19:55:42.722Z] > git rev-parse --show-toplevel [2ms]
+[2023-01-12T19:55:42.722Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2023-01-12T19:56:20.064Z] > git rev-parse --show-toplevel [1ms]
+[2023-01-12T19:56:20.064Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2023-01-12T19:57:41.893Z] > git init [3ms]
+[2023-01-12T19:57:41.893Z] hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint: 
+hint: 	git config --global init.defaultBranch <name>
+hint: 
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint: 
+hint: 	git branch -m <name>
+[2023-01-12T19:57:41.898Z] > git rev-parse --show-toplevel [1ms]
+[2023-01-12T19:57:41.903Z] > git rev-parse --git-dir --git-common-dir [1ms]
+[2023-01-12T19:57:41.909Z] [info] Open repository: /data/home/csmajs/txia024
+[2023-01-12T19:57:41.943Z] > git status -z -uall [27ms]
+[2023-01-12T19:57:41.947Z] > git symbolic-ref --short HEAD [1ms]
+[2023-01-12T19:57:41.952Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+[2023-01-12T19:57:41.959Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+[2023-01-12T19:57:41.959Z] > git remote --verbose [1ms]
+[2023-01-12T19:57:42.189Z] > git config --get commit.template [183ms]
+[2023-01-12T19:57:42.223Z] > git status -z -uall [27ms]
+[2023-01-12T19:57:42.228Z] > git rev-parse --show-toplevel [15ms]
+[2023-01-12T19:57:42.229Z] > git symbolic-ref --short HEAD [1ms]
+[2023-01-12T19:57:42.238Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+[2023-01-12T19:57:42.246Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+[2023-01-12T19:57:42.247Z] > git remote --verbose [2ms]
+[2023-01-12T19:57:42.281Z] > git config --get commit.template [1ms]
+[2023-01-12T19:57:42.745Z] > git rev-parse --show-toplevel [1ms]
+[2023-01-12T19:57:43.079Z] > git check-ignore -v -z --stdin [1ms]
+[2023-01-12T19:57:44.787Z] > git status -z -uall [19ms]
+[2023-01-12T19:57:44.793Z] > git symbolic-ref --short HEAD [1ms]
+[2023-01-12T19:57:44.798Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+[2023-01-12T19:57:44.807Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+[2023-01-12T19:57:44.807Z] > git remote --verbose [1ms]
+[2023-01-12T19:57:44.838Z] > git config --get commit.template [6ms]
+[2023-01-12T19:57:47.166Z] > git rev-parse --show-toplevel [2ms]
+[2023-01-12T19:57:50.685Z] > git add -A -- . [4085ms]
+[2023-01-12T19:57:50.766Z] > git -c user.useConfigOnly=true commit --quiet [75ms]
+[2023-01-12T19:57:50.766Z] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+[2023-01-12T19:57:50.773Z] > git config --get-all user.name [1ms]
+[2023-01-12T19:57:51.338Z] > git rev-parse --show-toplevel [1ms]
+[2023-01-12T19:58:05.940Z] > git rev-parse --show-toplevel [3ms]

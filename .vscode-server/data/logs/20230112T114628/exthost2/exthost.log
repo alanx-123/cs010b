@@ -1,0 +1,16 @@
+[2023-01-12 11:48:30.796] [exthost] [info] Extension host with pid 1315522 started
+[2023-01-12 11:48:30.804] [exthost] [info] Lock '/home/csmajs/txia024/.vscode-server/data/User/workspaceStorage/414fd2baf52539f1a5b00978e376b760/vscode.lock': Lock acquired.
+[2023-01-12 11:48:30.855] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2023-01-12 11:48:30.856] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2023-01-12 11:48:30.856] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2023-01-12 11:48:30.888] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2023-01-12 11:48:30.967] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2023-01-12 11:48:30.967] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2023-01-12 11:48:30.968] [exthost] [info] Eager extensions activated
+[2023-01-12 11:48:33.219] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2023-01-12 11:50:51.038] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2023-01-12 11:50:51.038] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2023-01-12 11:50:51.038] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2023-01-12 11:57:41.994] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1883
+[2023-01-12 11:57:42.268] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1883
+[2023-01-12 11:57:44.822] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1883
