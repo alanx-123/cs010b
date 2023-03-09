@@ -1,0 +1,96 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:45447 (IPv4)
+Extension host agent listening on 45447
+
+[11:28:56] 
+
+
+
+
+[11:28:56] Extension host agent started.
+[11:28:56] [127.0.0.1][646f84d0][ManagementConnection] New connection established.
+[11:28:56] [127.0.0.1][88da83e8][ExtensionHostConnection] New connection established.
+[11:28:56] [127.0.0.1][88da83e8][ExtensionHostConnection] <2191303> Launched Extension Host Process.
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    "\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q --header='Metadata:true' -O - http://169.254.169.254/metadata/instance?api-version=2019-03-11\n" +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    "\t\tcurl --connect-timeout 7 -s --header='Metadata:true' http://169.254.169.254/metadata/instance?api-version=2019-03-11\n" +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    '\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q  -O - http://169.254.169.254/latest/meta-data/instance-id\n' +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    '\t\tcurl --connect-timeout 7 -s  http://169.254.169.254/latest/meta-data/instance-id\n' +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    '\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q  -O - http://169.254.169.254/metadata/v1/id\n' +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    '\t\tcurl --connect-timeout 7 -s  http://169.254.169.254/metadata/v1/id\n' +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    "\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q --header='Metadata-Flavor:Google' -O - http://metadata.google.internal/computeMetadata/v1/instance/id\n" +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    "\t\tcurl --connect-timeout 7 -s --header='Metadata-Flavor:Google' http://metadata.google.internal/computeMetadata/v1/instance/id\n" +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[11:28:59] Getting Manifest... ms-python.vscode-pylance
+[11:28:59] Installing extension: ms-python.vscode-pylance
+[11:29:00] Getting Manifest... ms-python.python
+[11:29:02] Extension signature verification: ms-python.vscode-pylance. Verification status: Verified.
+[11:29:04] Extracted extension to /home/csmajs/txia024/.vscode-server/extensions/.2f47e6b9-518e-4ce4-9972-2e90a2753e96: ms-python.vscode-pylance
+[11:29:04] Renamed to /home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.20
+[11:29:04] Extracting completed. ms-python.vscode-pylance
+[11:29:04] Extension installed successfully: ms-python.vscode-pylance
+[11:29:04] Marked extension as uninstalled ms-python.vscode-pylance-2023.2.10
+New EH opened, aborting shutdown
+[11:33:56] New EH opened, aborting shutdown
+[12:11:42] [127.0.0.1][646f84d0][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[12:11:42] [127.0.0.1][88da83e8][ExtensionHostConnection] <2191303> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[12:11:42] Last EH closed, waiting before shutting down
+Last EH closed, shutting down
+[12:16:42] Last EH closed, shutting down

@@ -1,0 +1,38 @@
+2023-03-07 20:36:49.478 [info] Log level: Info
+2023-03-07 20:36:49.478 [info] Validating found git in: "git"
+2023-03-07 20:36:49.478 [info] Using git "2.31.1" from "git"
+2023-03-07 20:36:49.478 [info] > git rev-parse --show-toplevel [3ms]
+2023-03-07 20:36:49.478 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-03-07 20:36:49.478 [info] Open repository: /data/home/csmajs/txia024
+2023-03-07 20:36:49.478 [info] > git rev-parse --show-toplevel [7ms]
+2023-03-07 20:36:49.478 [info] > git config --get commit.template [6ms]
+2023-03-07 20:36:49.478 [info] > git rev-parse --show-toplevel [6ms]
+2023-03-07 20:36:49.478 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2023-03-07 20:36:49.478 [info] > git rev-parse --show-toplevel [7ms]
+2023-03-07 20:36:49.478 [info] > git rev-parse --show-toplevel [13ms]
+2023-03-07 20:36:49.478 [info] > git rev-parse --show-toplevel [2ms]
+2023-03-07 20:36:49.478 [info] > git rev-parse --show-toplevel [6ms]
+2023-03-07 20:36:49.478 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-07 20:36:49.478 [info] > git rev-parse --show-toplevel [4ms]
+2023-03-07 20:36:49.478 [info] > git rev-parse --show-toplevel [62ms]
+2023-03-07 20:36:49.478 [info] > git rev-parse --show-toplevel [2ms]
+2023-03-07 20:36:49.478 [info] > git rev-parse --show-toplevel [2ms]
+2023-03-07 20:36:49.478 [info] > git rev-parse --show-toplevel [2ms]
+2023-03-07 20:36:49.480 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-07 20:36:49.507 [info] > git rev-parse --show-toplevel [22ms]
+2023-03-07 20:36:49.515 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-07 20:36:49.681 [info] > git status -z -uall [351ms] (cancelled)
+2023-03-07 20:36:49.682 [info] > git rev-parse --show-toplevel [162ms]
+2023-03-07 20:36:50.735 [info] > git rev-parse --show-toplevel [1047ms]
+2023-03-07 20:36:50.747 [info] > git config --get commit.template [1066ms]
+2023-03-07 20:36:50.754 [info] > git rev-parse --show-toplevel [8ms]
+2023-03-07 20:36:50.773 [info] > git rev-parse --show-toplevel [9ms]
+2023-03-07 20:36:50.781 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2023-03-07 20:36:50.789 [info] > git rev-parse --show-toplevel [9ms]
+2023-03-07 20:36:50.797 [info] > git rev-parse --show-toplevel [1ms]
+2023-03-07 20:36:50.806 [info] > git rev-parse --show-toplevel [2ms]
+2023-03-07 20:36:50.815 [info] > git rev-parse --show-toplevel [2ms]
+2023-03-07 20:36:50.828 [info] > git rev-parse --show-toplevel [2ms]
+2023-03-07 20:36:50.844 [info] > git rev-parse --show-toplevel [4ms]
+2023-03-07 20:36:50.867 [info] > git rev-parse --show-toplevel [4ms]
+2023-03-07 20:36:51.087 [info] > git status -z -uall [299ms] (cancelled)

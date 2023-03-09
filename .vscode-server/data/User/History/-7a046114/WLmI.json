@@ -1,0 +1,22 @@
+{
+    "workbench.colorTheme": "Tokyo Night",
+    "debug.autoExpandLazyVariables": true,
+    "code-runner.runInTerminal": true,
+    "files.autoSave": "afterDelay",
+    "liveServer.settings.fullReload": true,
+    "liveshare.allowGuestTaskControl": true,
+    "cmake.enabledOutputParsers": [
+        "cmake",
+        "gcc",
+        "gnuld",
+        "msvc",
+        "ghs",
+        "diab",
+        "cmake",
+        "gcc"
+    ],
+    "remote.SSH.remotePlatform": {
+        "cs010b.cs.ucr.edu": "linux"
+    },
+    "workbench.iconTheme": "vscode-icons"
+}

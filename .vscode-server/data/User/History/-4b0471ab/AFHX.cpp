@@ -1,0 +1,76 @@
+#include <iostream>
+#include <fstream>
+#include <string>
+#include <vector>
+
+using namespace std;
+
+int main(int argc, char *argv[])
+{
+   string inputFile;
+   string outputFile;
+
+   inputFile = argv[1];
+   outputFile = argv[2];
+
+   ifstream inSS;
+   vector<int> nums;
+
+   inSS.open(inputFile);
+
+   if (!inSS.is_open())
+   {
+      cout << "Error opening " << inputFile << endl;
+      exit(1);
+   }
+
+   int c;
+
+   while (!inSS.eof()){
+      inSS >> c >> ws;
+      if (!inSS.fail()){
+         nums.push_back(c);
+      }
+      inSS.clear();
+      if(inSS.bad()){
+         cout << "error reading file, exiting" << endl;
+         exit(1);
+      }
+   }
+   inSS.close();
+
+   int sum = 0;
+   int avg;
+
+   for (int num : nums)
+   {
+      sum += num;
+   }
+
+   avg = sum / nums.size();
+
+   for (unsigned int i = 0; i < nums.size(); i++)
+   {
+      nums[i] -= avg;
+   }
+
+   ofstream outFS;
+
+   outFS.open(outputFile);
+
+   if (!outFS.is_open())
+   {
+      cout << "Error opening " << outputFile << endl;
+      exit(1);
+   }
+
+   for (unsigned int i = 0; i < nums.size() - 1; i++)
+   {
+      outFS << nums[i] << ",";
+   }
+   outFS << nums[nums.size() - 1];
+
+   outFS.close();
+
+   return 0;
+}

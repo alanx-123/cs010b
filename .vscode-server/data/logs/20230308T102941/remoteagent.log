@@ -1,0 +1,150 @@
+[2023-03-08 10:29:41.963] [remoteagent] [info] Extension host agent started.
+[2023-03-08 10:29:42.073] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 10:29:42.074] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 10:29:42.075] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 10:29:42.076] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 10:29:42.078] [remoteagent] [info] [127.0.0.1][973258a4][ManagementConnection] New connection established.
+[2023-03-08 10:29:42.081] [remoteagent] [info] [127.0.0.1][9b9df322][ExtensionHostConnection] New connection established.
+[2023-03-08 10:29:42.119] [remoteagent] [info] [127.0.0.1][9b9df322][ExtensionHostConnection] <2658986> Launched Extension Host Process.
+[2023-03-08 10:29:42.202] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 10:29:42.202] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 10:29:42.223] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 10:29:42.225] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 10:29:42.232] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 10:29:42.233] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 10:29:42.234] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 10:29:42.234] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 10:29:42.318] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 10:29:42.319] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 10:29:42.415] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 10:29:42.415] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 10:29:42.421] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 10:29:42.421] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 10:29:42.425] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 10:29:42.426] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 10:29:42.427] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 10:29:42.429] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 10:29:43.006] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 10:29:43.007] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 10:29:44.174] [remoteagent] [info] [127.0.0.1][973258a4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2023-03-08 10:29:44.188] [remoteagent] [info] [127.0.0.1][9b9df322][ExtensionHostConnection] <2658986> Extension Host Process exited with code: 0, signal: null.
+[2023-03-08 10:29:44.188] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2023-03-08 10:29:50.294] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2023-03-08 10:29:50.294] [remoteagent] [info] Cancelling previous shutdown timeout
+[2023-03-08 10:29:50.355] [remoteagent] [info] [127.0.0.1][72ad0463][ManagementConnection] New connection established.
+[2023-03-08 10:29:50.362] [remoteagent] [info] [127.0.0.1][ab80e852][ExtensionHostConnection] New connection established.
+[2023-03-08 10:29:50.368] [remoteagent] [info] [127.0.0.1][ab80e852][ExtensionHostConnection] <2659504> Launched Extension Host Process.
+[2023-03-08 10:29:50.437] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 10:29:50.438] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 10:29:50.439] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 10:29:50.439] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 10:29:50.602] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 10:29:50.603] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 10:29:50.611] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 10:29:50.612] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 10:29:50.618] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 10:29:50.619] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 10:29:50.619] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 10:29:50.620] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 10:29:51.202] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 10:29:51.203] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 10:29:51.473] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 10:29:51.474] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 10:29:53.397] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 10:29:53.398] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 10:34:50.295] [remoteagent] [info] New EH opened, aborting shutdown
+[2023-03-08 10:34:51.870] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 10:34:51.872] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 10:35:42.557] [remoteagent] [info] [127.0.0.1][ab80e852][ExtensionHostConnection] The client has reconnected.
+[2023-03-08 12:05:04.489] [remoteagent] [info] [127.0.0.1][eff6860e][ManagementConnection] New connection established.
+[2023-03-08 12:05:04.492] [remoteagent] [info] [127.0.0.1][73d11b1a][ExtensionHostConnection] New connection established.
+[2023-03-08 12:05:04.500] [remoteagent] [info] [127.0.0.1][73d11b1a][ExtensionHostConnection] <2937087> Launched Extension Host Process.
+[2023-03-08 12:05:04.624] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 12:05:04.625] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 12:05:04.631] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 12:05:04.632] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 12:05:04.632] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 12:05:04.633] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 12:05:05.021] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 12:05:05.022] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 12:05:05.028] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 12:05:05.028] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 12:05:05.033] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 12:05:05.033] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 12:05:05.035] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 12:05:05.035] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 12:05:05.144] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 12:05:05.145] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 12:05:07.547] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 12:05:07.547] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 12:05:07.798] [remoteagent] [info] [127.0.0.1][eff6860e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2023-03-08 12:05:07.814] [remoteagent] [info] [127.0.0.1][73d11b1a][ExtensionHostConnection] <2937087> Extension Host Process exited with code: 0, signal: null.
+[2023-03-08 12:05:11.919] [remoteagent] [info] [127.0.0.1][b57bbc92][ManagementConnection] New connection established.
+[2023-03-08 12:05:11.931] [remoteagent] [info] [127.0.0.1][5afa0db2][ExtensionHostConnection] New connection established.
+[2023-03-08 12:05:11.940] [remoteagent] [info] [127.0.0.1][5afa0db2][ExtensionHostConnection] <2937751> Launched Extension Host Process.
+[2023-03-08 12:05:11.998] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 12:05:11.998] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 12:05:12.103] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 12:05:12.103] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 12:05:12.111] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 12:05:12.112] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 12:05:12.118] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 12:05:12.118] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 12:05:12.731] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 12:05:12.732] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 12:05:12.942] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 12:05:12.942] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 12:05:13.006] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 12:05:13.007] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 12:05:13.054] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 12:05:13.055] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 12:05:14.961] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 12:05:14.962] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 12:06:33.431] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 12:06:33.431] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 12:10:04.637] [remoteagent] [info] [127.0.0.1][ab80e852][ExtensionHostConnection] <2659504> Extension Host Process exited with code: 0, signal: null.
+[2023-03-08 12:10:13.365] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 12:10:13.366] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 12:15:17.191] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 12:15:17.192] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 12:21:17.192] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 12:21:17.193] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 12:27:17.170] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 12:27:17.170] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 12:33:17.192] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 12:33:17.192] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 12:38:17.296] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 12:38:17.300] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 12:43:17.392] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 12:43:17.393] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 12:48:18.363] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 12:48:18.364] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 12:53:11.551] [remoteagent] [info] [127.0.0.1][5afa0db2][ExtensionHostConnection] The client has reconnected.
+[2023-03-08 13:02:20.314] [remoteagent] [info] [127.0.0.1][0f3a98a2][ManagementConnection] New connection established.
+[2023-03-08 13:02:20.331] [remoteagent] [info] [127.0.0.1][ca3a22f9][ExtensionHostConnection] New connection established.
+[2023-03-08 13:02:20.340] [remoteagent] [info] [127.0.0.1][ca3a22f9][ExtensionHostConnection] <3164468> Launched Extension Host Process.
+[2023-03-08 13:02:20.445] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 13:02:20.445] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 13:02:20.446] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 13:02:20.452] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 13:02:20.881] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 13:02:20.882] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 13:02:20.889] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 13:02:20.890] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 13:02:20.895] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 13:02:20.896] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 13:02:20.898] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 13:02:20.898] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 13:02:21.348] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 13:02:21.348] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 13:02:21.599] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 13:02:21.600] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 13:02:23.378] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[2023-03-08 13:02:23.379] [remoteagent] [error] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[2023-03-08 13:04:13.367] [remoteagent] [info] [127.0.0.1][0f3a98a2][ManagementConnection] The client has reconnected.
+[2023-03-08 13:04:13.411] [remoteagent] [info] [127.0.0.1][ca3a22f9][ExtensionHostConnection] The client has reconnected.
+[2023-03-08 13:07:08.682] [remoteagent] [info] [127.0.0.1][ca3a22f9][ExtensionHostConnection] The client has reconnected.
+[2023-03-08 13:07:20.449] [remoteagent] [info] [127.0.0.1][5afa0db2][ExtensionHostConnection] <2937751> Extension Host Process exited with code: 0, signal: null.
+[2023-03-08 16:07:21.391] [remoteagent] [info] [127.0.0.1][ca3a22f9][ExtensionHostConnection] <3164468> Extension Host Process exited with code: 0, signal: null.
+[2023-03-08 16:07:21.391] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2023-03-08 16:12:21.392] [remoteagent] [info] Last EH closed, shutting down

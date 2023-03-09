@@ -1,0 +1,119 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:38731 (IPv4)
+Extension host agent listening on 38731
+
+[12:48:22] Extension host agent started.
+[12:48:22] [127.0.0.1][5e1570d3][ManagementConnection] New connection established.
+[12:48:22] [127.0.0.1][92ed0322][ExtensionHostConnection] New connection established.
+[12:48:22] [127.0.0.1][92ed0322][ExtensionHostConnection] <3189616> Launched Extension Host Process.
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    "\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q --header='Metadata:true' -O - http://169.254.169.254/metadata/instance?api-version=2019-03-11\n" +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    "\t\tcurl --connect-timeout 7 -s --header='Metadata:true' http://169.254.169.254/metadata/instance?api-version=2019-03-11\n" +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    '\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q  -O - http://169.254.169.254/latest/meta-data/instance-id\n' +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    '\t\tcurl --connect-timeout 7 -s  http://169.254.169.254/latest/meta-data/instance-id\n' +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    '\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q  -O - http://169.254.169.254/metadata/v1/id\n' +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    '\t\tcurl --connect-timeout 7 -s  http://169.254.169.254/metadata/v1/id\n' +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    "\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q --header='Metadata-Flavor:Google' -O - http://metadata.google.internal/computeMetadata/v1/instance/id\n" +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    "\t\tcurl --connect-timeout 7 -s --header='Metadata-Flavor:Google' http://metadata.google.internal/computeMetadata/v1/instance/id\n" +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[12:48:25] Getting Manifest... ms-python.vscode-pylance
+[12:48:25] Getting Manifest... ms-vsliveshare.vsliveshare
+[12:48:25] Getting Manifest... streetsidesoftware.code-spell-checker
+[12:48:25] Installing extension: ms-vsliveshare.vsliveshare
+[12:48:26] Installing extension: ms-python.vscode-pylance
+[12:48:26] Installing extension: streetsidesoftware.code-spell-checker
+[12:48:27] Getting Manifest... ms-python.python
+[12:48:27] Extracted extension to /home/csmajs/txia024/.vscode-server/extensions/.51308c4f-dd4a-4ff0-bf93-8cf20841c97f: streetsidesoftware.code-spell-checker
+[12:48:27] Renamed to /home/csmajs/txia024/.vscode-server/extensions/streetsidesoftware.code-spell-checker-2.16.0
+[12:48:27] Extracting completed. streetsidesoftware.code-spell-checker
+[12:48:27] Extension installed successfully: streetsidesoftware.code-spell-checker
+[12:48:27] Marked extension as uninstalled streetsidesoftware.code-spell-checker-2.15.0
+[12:48:28] Extracted extension to /home/csmajs/txia024/.vscode-server/extensions/.f8f837c2-e0a5-484a-b00c-f463c34e9b6f: ms-vsliveshare.vsliveshare
+[12:48:28] Renamed to /home/csmajs/txia024/.vscode-server/extensions/ms-vsliveshare.vsliveshare-1.0.5828
+[12:48:28] Extracting completed. ms-vsliveshare.vsliveshare
+[12:48:28] Extension installed successfully: ms-vsliveshare.vsliveshare
+[12:48:28] Marked extension as uninstalled ms-vsliveshare.vsliveshare-1.0.5823
+[12:48:30] Extracted extension to /home/csmajs/txia024/.vscode-server/extensions/.6b1a2f8b-1202-489b-bd78-8ee335105285: ms-python.vscode-pylance
+[12:48:30] Renamed to /home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.10
+[12:48:30] Extracting completed. ms-python.vscode-pylance
+[12:48:30] Extension installed successfully: ms-python.vscode-pylance
+[12:48:30] Marked extension as uninstalled ms-python.vscode-pylance-2023.1.40
+[12:49:10] [127.0.0.1][5e1570d3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[12:49:11] [127.0.0.1][92ed0322][ExtensionHostConnection] <3189616> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[12:49:11] Last EH closed, waiting before shutting down
+[12:50:29] Extensions removed from another source esbenp.prettier-vscode file:///home/csmajs/txia024/.vscode-server/data/User/extensions.json
+[12:50:29] Extensions removed from another source formulahendry.code-runner file:///home/csmajs/txia024/.vscode-server/data/User/extensions.json
+[12:50:29] Extensions removed from another source hediet.debug-visualizer file:///home/csmajs/txia024/.vscode-server/data/User/extensions.json
+[12:50:29] Extensions removed from another source ms-vscode.cpptools file:///home/csmajs/txia024/.vscode-server/data/User/extensions.json
+[12:50:29] Extensions removed from another source ms-vscode.cpptools-extension-pack file:///home/csmajs/txia024/.vscode-server/data/User/extensions.json
+[12:50:29] Extensions removed from another source ms-vscode.cpptools-themes file:///home/csmajs/txia024/.vscode-server/data/User/extensions.json
+[12:50:29] Extensions removed from another source ritwickdey.liveserver file:///home/csmajs/txia024/.vscode-server/data/User/extensions.json
+[12:50:29] Extensions removed from another source twxs.cmake file:///home/csmajs/txia024/.vscode-server/data/User/extensions.json
+[12:50:29] Extensions removed from another source codium.codium file:///home/csmajs/txia024/.vscode-server/data/User/extensions.json
+[12:50:29] Extensions removed from another source ms-vscode.cmake-tools file:///home/csmajs/txia024/.vscode-server/data/User/extensions.json
+[12:50:29] Extensions removed from another source ms-python.python file:///home/csmajs/txia024/.vscode-server/data/User/extensions.json
+[12:50:29] Extensions removed from another source ms-python.isort file:///home/csmajs/txia024/.vscode-server/data/User/extensions.json
+[12:50:29] Extensions removed from another source robbowen.synthwave-vscode file:///home/csmajs/txia024/.vscode-server/data/User/extensions.json
+[12:50:29] Extensions removed from another source streetsidesoftware.code-spell-checker file:///home/csmajs/txia024/.vscode-server/data/User/extensions.json
+[12:50:29] Extensions removed from another source ms-vsliveshare.vsliveshare file:///home/csmajs/txia024/.vscode-server/data/User/extensions.json
+[12:50:29] Extensions removed from another source ms-python.vscode-pylance file:///home/csmajs/txia024/.vscode-server/data/User/extensions.json
+[12:50:37] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.2.0]: Extension is not compatible with Code 1.74.3. Extension requires: ^1.75.0-20230123.
+Last EH closed, shutting down
+[12:54:11] Last EH closed, shutting down

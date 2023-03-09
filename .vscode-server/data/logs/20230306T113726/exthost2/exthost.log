@@ -1,0 +1,76 @@
+[2023-03-06 11:37:34.417] [exthost] [info] Extension host with pid 480546 started
+[2023-03-06 11:37:34.426] [exthost] [info] Lock '/home/csmajs/txia024/.vscode-server/data/User/workspaceStorage/414fd2baf52539f1a5b00978e376b760/vscode.lock': Lock acquired.
+[2023-03-06 11:37:34.892] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:cpp'
+[2023-03-06 11:37:34.893] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2023-03-06 11:37:34.893] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2023-03-06 11:37:34.893] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2023-03-06 11:37:35.144] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2023-03-06 11:37:35.145] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2023-03-06 11:37:35.710] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2023-03-06 11:37:36.585] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2023-03-06 11:37:36.586] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2023-03-06 11:37:36.586] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2023-03-06 11:37:36.586] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2023-03-06 11:37:36.839] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2023-03-06 11:37:36.840] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2023-03-06 11:37:36.840] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2023-03-06 11:37:36.840] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: false, activationEvent: 'onStartupFinished'
+[2023-03-06 11:37:36.841] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2023-03-06 11:37:36.841] [exthost] [info] Eager extensions activated
+[2023-03-06 11:37:37.529] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10020
+[2023-03-06 11:37:38.852] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2023-03-06 11:37:39.354] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2023-03-06 11:37:40.048] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10005
+[2023-03-06 11:37:41.203] [exthost] [warning] DiagnosticCollection with name 'C/C++' does already exist.
+[2023-03-06 11:39:16.035] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2023-03-06 11:39:16.036] [exthost] [info] Lock '/home/csmajs/txia024/.vscode-server/data/User/workspaceStorage/414fd2baf52539f1a5b00978e376b760/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2023-03-06 11:39:16.133] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2023-03-06 11:39:16.133] [exthost] [error] Error: Pending response rejected since connection got disposed
+	at Object.dispose (/data/home/csmajs/txia024/.vscode-server/extensions/ms-vscode.cpptools-1.14.4-linux-x64/dist/main.js:57932:27)
+	at Object.dispose (/data/home/csmajs/txia024/.vscode-server/extensions/ms-vscode.cpptools-1.14.4-linux-x64/dist/main.js:61575:35)
+	at /data/home/csmajs/txia024/.vscode-server/extensions/ms-vscode.cpptools-1.14.4-linux-x64/dist/main.js:61004:28
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-03-06 11:39:16.133] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2023-03-06 11:39:16.133] [exthost] [error] Error: Pending response rejected since connection got disposed
+	at Object.dispose (/data/home/csmajs/txia024/.vscode-server/extensions/ms-vscode.cpptools-1.14.4-linux-x64/dist/main.js:57932:27)
+	at Object.dispose (/data/home/csmajs/txia024/.vscode-server/extensions/ms-vscode.cpptools-1.14.4-linux-x64/dist/main.js:61575:35)
+	at /data/home/csmajs/txia024/.vscode-server/extensions/ms-vscode.cpptools-1.14.4-linux-x64/dist/main.js:61004:28
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-03-06 11:39:16.133] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2023-03-06 11:39:16.133] [exthost] [error] Error: Pending response rejected since connection got disposed
+	at Object.dispose (/data/home/csmajs/txia024/.vscode-server/extensions/ms-vscode.cpptools-1.14.4-linux-x64/dist/main.js:57932:27)
+	at Object.dispose (/data/home/csmajs/txia024/.vscode-server/extensions/ms-vscode.cpptools-1.14.4-linux-x64/dist/main.js:61575:35)
+	at /data/home/csmajs/txia024/.vscode-server/extensions/ms-vscode.cpptools-1.14.4-linux-x64/dist/main.js:61004:28
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-03-06 11:39:16.133] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2023-03-06 11:39:16.133] [exthost] [error] Error: Pending response rejected since connection got disposed
+	at Object.dispose (/data/home/csmajs/txia024/.vscode-server/extensions/ms-vscode.cpptools-1.14.4-linux-x64/dist/main.js:57932:27)
+	at Object.dispose (/data/home/csmajs/txia024/.vscode-server/extensions/ms-vscode.cpptools-1.14.4-linux-x64/dist/main.js:61575:35)
+	at /data/home/csmajs/txia024/.vscode-server/extensions/ms-vscode.cpptools-1.14.4-linux-x64/dist/main.js:61004:28
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-03-06 11:39:16.133] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2023-03-06 11:39:16.133] [exthost] [error] Error: Pending response rejected since connection got disposed
+	at Object.dispose (/data/home/csmajs/txia024/.vscode-server/extensions/ms-vscode.cpptools-1.14.4-linux-x64/dist/main.js:57932:27)
+	at Object.dispose (/data/home/csmajs/txia024/.vscode-server/extensions/ms-vscode.cpptools-1.14.4-linux-x64/dist/main.js:61575:35)
+	at /data/home/csmajs/txia024/.vscode-server/extensions/ms-vscode.cpptools-1.14.4-linux-x64/dist/main.js:61004:28
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-03-06 11:39:16.133] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2023-03-06 11:39:16.133] [exthost] [error] Error: Pending response rejected since connection got disposed
+	at Object.dispose (/data/home/csmajs/txia024/.vscode-server/extensions/ms-vscode.cpptools-1.14.4-linux-x64/dist/main.js:57932:27)
+	at Object.dispose (/data/home/csmajs/txia024/.vscode-server/extensions/ms-vscode.cpptools-1.14.4-linux-x64/dist/main.js:61575:35)
+	at /data/home/csmajs/txia024/.vscode-server/extensions/ms-vscode.cpptools-1.14.4-linux-x64/dist/main.js:61004:28
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-03-06 11:39:16.133] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2023-03-06 11:39:16.133] [exthost] [error] Error: Pending response rejected since connection got disposed
+	at Object.dispose (/data/home/csmajs/txia024/.vscode-server/extensions/ms-vscode.cpptools-1.14.4-linux-x64/dist/main.js:57932:27)
+	at Object.dispose (/data/home/csmajs/txia024/.vscode-server/extensions/ms-vscode.cpptools-1.14.4-linux-x64/dist/main.js:61575:35)
+	at /data/home/csmajs/txia024/.vscode-server/extensions/ms-vscode.cpptools-1.14.4-linux-x64/dist/main.js:61004:28
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-03-06 11:39:16.134] [exthost] [info] Extension host with pid 480546 exiting with code 0
