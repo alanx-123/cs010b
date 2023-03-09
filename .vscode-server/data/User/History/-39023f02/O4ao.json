@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "debug.autoExpandLazyVariables": true,
+    "liveServer.settings.fullReload": true,
+    "liveshare.allowGuestTaskControl": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 100,
+    "git.enableSmartCommit": true,
+    "code-runner.runInTerminal": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.minimap.enabled": false
+}

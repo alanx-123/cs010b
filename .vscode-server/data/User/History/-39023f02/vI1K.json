@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Visual Studio Light",
+    "debug.autoExpandLazyVariables": true,
+    "liveServer.settings.fullReload": true,
+    "liveshare.allowGuestTaskControl": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 100,
+    "git.enableSmartCommit": true,
+    "code-runner.runInTerminal": true
+}

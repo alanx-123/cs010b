@@ -1,0 +1,22 @@
+[2023-03-08 12:05:12.358] [exthost] [info] Extension host with pid 2937751 started
+[2023-03-08 12:05:12.360] [exthost] [error] Error: EEXIST: file already exists, open '/home/csmajs/txia024/.vscode-server/data/User/workspaceStorage/414fd2baf52539f1a5b00978e376b760/vscode.lock'
+[2023-03-08 12:05:12.363] [exthost] [info] Lock '/home/csmajs/txia024/.vscode-server/data/User/workspaceStorage/414fd2baf52539f1a5b00978e376b760/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2023-03-08 12:05:12.368] [exthost] [info] Lock '/home/csmajs/txia024/.vscode-server/data/User/workspaceStorage/414fd2baf52539f1a5b00978e376b760/vscode.lock': The lock does not look stale, elapsed: 271 ms, giving up.
+[2023-03-08 12:05:12.369] [exthost] [info] Lock '/home/csmajs/txia024/.vscode-server/data/User/workspaceStorage/414fd2baf52539f1a5b00978e376b760-1/vscode.lock': Lock acquired.
+[2023-03-08 12:05:12.430] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2023-03-08 12:05:12.431] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2023-03-08 12:05:12.431] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2023-03-08 12:05:12.750] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2023-03-08 12:05:12.750] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2023-03-08 12:05:13.041] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2023-03-08 12:05:13.042] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2023-03-08 12:05:13.042] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+[2023-03-08 12:05:13.043] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2023-03-08 12:05:13.043] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2023-03-08 12:05:13.044] [exthost] [info] Eager extensions activated
+[2023-03-08 12:05:13.296] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2023-03-08 12:05:14.497] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10001
+[2023-03-08 12:05:15.870] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2023-03-08 13:07:20.426] [exthost] [info] Extension host terminating: renderer disconnected for too long (2)
+[2023-03-08 13:07:20.426] [exthost] [info] Lock '/home/csmajs/txia024/.vscode-server/data/User/workspaceStorage/414fd2baf52539f1a5b00978e376b760-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2023-03-08 13:07:20.436] [exthost] [info] Extension host with pid 2937751 exiting with code 0

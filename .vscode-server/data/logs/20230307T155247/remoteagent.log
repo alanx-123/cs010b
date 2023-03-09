@@ -1,0 +1,49 @@
+2023-03-07 15:52:47.161 [info] 
+
+
+
+
+2023-03-07 15:52:47.187 [info] Extension host agent started.
+2023-03-07 15:52:47.281 [info] [127.0.0.1][7c159cbc][ManagementConnection] New connection established.
+2023-03-07 15:52:47.307 [info] [127.0.0.1][cb944d7d][ExtensionHostConnection] New connection established.
+2023-03-07 15:52:47.352 [info] Marked extension as uninstalled ms-vscode.cpptools-1.14.4-linux-x64
+2023-03-07 15:52:47.353 [info] Marked extension as uninstalled ms-vsliveshare.vsliveshare-1.0.5834
+2023-03-07 15:52:47.353 [info] Marked extension as uninstalled streetsidesoftware.code-spell-checker-2.19.0
+2023-03-07 15:52:47.383 [info] [127.0.0.1][cb944d7d][ExtensionHostConnection] <2321188> Launched Extension Host Process.
+2023-03-07 15:52:47.518 [info] Deleted from disk streetsidesoftware.code-spell-checker /home/csmajs/txia024/.vscode-server/extensions/streetsidesoftware.code-spell-checker-2.18.0
+2023-03-07 15:52:47.888 [info] Deleted from disk ms-vsliveshare.vsliveshare /home/csmajs/txia024/.vscode-server/extensions/ms-vsliveshare.vsliveshare-1.0.5832
+2023-03-07 15:52:49.888 [info] [127.0.0.1][7c159cbc][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-03-07 15:52:49.912 [info] [127.0.0.1][cb944d7d][ExtensionHostConnection] <2321188> Extension Host Process exited with code: 0, signal: null.
+2023-03-07 15:52:49.913 [info] Cancelling previous shutdown timeout
+2023-03-07 15:52:49.913 [info] Last EH closed, waiting before shutting down
+2023-03-07 15:52:54.885 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-03-07 15:52:54.885 [info] Cancelling previous shutdown timeout
+2023-03-07 15:52:54.945 [info] [127.0.0.1][de111a56][ManagementConnection] New connection established.
+2023-03-07 15:52:54.958 [info] [127.0.0.1][1beae04b][ExtensionHostConnection] New connection established.
+2023-03-07 15:52:54.966 [info] [127.0.0.1][1beae04b][ExtensionHostConnection] <2322042> Launched Extension Host Process.
+2023-03-07 15:52:57.207 [info] Getting Manifest... ms-python.python
+2023-03-07 15:52:57.207 [info] Getting Manifest... ms-python.vscode-pylance
+2023-03-07 15:52:57.322 [info] Installing extension: ms-python.python
+2023-03-07 15:52:57.345 [info] Installing extension: ms-python.vscode-pylance
+2023-03-07 15:52:57.610 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/data/home/csmajs/txia024/.vscode-server/data/logs/20230228T135637/exthost3/output_logging_20230228T154927' failed: No such file or directory (EUNKNOWN) (path: /home/csmajs/txia024)
+2023-03-07 15:52:57.610 [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '/data/home/csmajs/txia024/.vscode-server/data/logs/20230228T135637/exthost3/output_logging_20230228T154927' failed: No such file or directory
+2023-03-07 15:52:57.933 [info] Getting Manifest... ms-python.python
+2023-03-07 15:52:58.033 [info] Waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2023-03-07 15:52:59.935 [info] Extension signature verification: ms-python.vscode-pylance. Verification status: Verified.
+2023-03-07 15:52:59.946 [info] Extension signature verification: ms-python.python. Verification status: Verified.
+2023-03-07 15:53:02.128 [info] Extracted extension to /home/csmajs/txia024/.vscode-server/extensions/.08c15fe8-756b-493a-b9d2-241f914c7427: ms-python.python
+2023-03-07 15:53:02.135 [info] Renamed to /home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0
+2023-03-07 15:53:02.140 [info] Extracting completed. ms-python.python
+2023-03-07 15:53:02.147 [info] Extension installed successfully: ms-python.python
+2023-03-07 15:53:02.149 [info] Finished waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2023-03-07 15:53:02.176 [info] Marked extension as uninstalled ms-python.python-2023.2.0
+2023-03-07 15:53:02.822 [info] Extracted extension to /home/csmajs/txia024/.vscode-server/extensions/.e79da617-3ba6-42e2-8e8c-c06e31572aea: ms-python.vscode-pylance
+2023-03-07 15:53:02.825 [info] Renamed to /home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10
+2023-03-07 15:53:02.827 [info] Extracting completed. ms-python.vscode-pylance
+2023-03-07 15:53:02.830 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-03-07 15:53:02.849 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.2.20
+2023-03-07 15:57:54.886 [info] New EH opened, aborting shutdown
+2023-03-07 18:31:20.341 [info] [127.0.0.1][de111a56][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-03-07 18:31:20.374 [info] [127.0.0.1][1beae04b][ExtensionHostConnection] <2322042> Extension Host Process exited with code: 0, signal: null.
+2023-03-07 18:31:20.374 [info] Last EH closed, waiting before shutting down
+2023-03-07 18:36:20.374 [info] Last EH closed, shutting down

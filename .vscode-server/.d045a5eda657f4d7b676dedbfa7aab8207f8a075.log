@@ -5,13 +5,35 @@
 * the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
 * the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
 *
-Server bound to 127.0.0.1:36035 (IPv4)
-Extension host agent listening on 36035
+Server bound to 127.0.0.1:43559 (IPv4)
+Extension host agent listening on 43559
 
-[11:46:29] Extension host agent started.
-[11:46:29] [127.0.0.1][db27bb66][ManagementConnection] New connection established.
-[11:46:29] [127.0.0.1][a8c8e4fd][ExtensionHostConnection] New connection established.
-[11:46:29] [127.0.0.1][a8c8e4fd][ExtensionHostConnection] <1309801> Launched Extension Host Process.
+[10:29:41] Extension host agent started.
+[10:29:42] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[10:29:42] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[10:29:42] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[10:29:42] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[10:29:42] [127.0.0.1][973258a4][ManagementConnection] New connection established.
+[10:29:42] [127.0.0.1][9b9df322][ExtensionHostConnection] New connection established.
+[10:29:42] [127.0.0.1][9b9df322][ExtensionHostConnection] <2658986> Launched Extension Host Process.
+[10:29:42] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[10:29:42] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[10:29:42] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[10:29:42] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[10:29:42] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[10:29:42] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[10:29:42] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[10:29:42] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[10:29:42] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[10:29:42] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[10:29:42] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[10:29:42] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[10:29:42] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[10:29:42] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[10:29:42] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[10:29:42] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[10:29:42] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[10:29:42] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
 [IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
   '-c',
   'wget --version > /dev/null\n' +
@@ -72,17 +94,33 @@ Extension host agent listening on 36035
     'fi\n' +
     'exit 0'
 ]
-[11:48:16] [127.0.0.1][db27bb66][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
-[11:48:16] [127.0.0.1][a8c8e4fd][ExtensionHostConnection] <1309801> Extension Host Process exited with code: 0, signal: null.
+[10:29:43] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[10:29:43] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[10:29:44] [127.0.0.1][973258a4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[10:29:44] [127.0.0.1][9b9df322][ExtensionHostConnection] <2658986> Extension Host Process exited with code: 0, signal: null.
 Last EH closed, waiting before shutting down
-[11:48:16] Last EH closed, waiting before shutting down
+[10:29:44] Last EH closed, waiting before shutting down
 Got delay-shutdown request while in shutdown timeout, delaying
-[11:48:30] Got delay-shutdown request while in shutdown timeout, delaying
+[10:29:50] Got delay-shutdown request while in shutdown timeout, delaying
 Cancelling previous shutdown timeout
-[11:48:30] Cancelling previous shutdown timeout
-[11:48:30] [127.0.0.1][0c92615a][ManagementConnection] New connection established.
-[11:48:30] [127.0.0.1][bb441b77][ExtensionHostConnection] New connection established.
-[11:48:30] [127.0.0.1][bb441b77][ExtensionHostConnection] <1315522> Launched Extension Host Process.
+[10:29:50] Cancelling previous shutdown timeout
+[10:29:50] [127.0.0.1][72ad0463][ManagementConnection] New connection established.
+[10:29:50] [127.0.0.1][ab80e852][ExtensionHostConnection] New connection established.
+[10:29:50] [127.0.0.1][ab80e852][ExtensionHostConnection] <2659504> Launched Extension Host Process.
+[10:29:50] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[10:29:50] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[10:29:50] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[10:29:50] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[10:29:50] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[10:29:50] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[10:29:50] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[10:29:50] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[10:29:50] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[10:29:50] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[10:29:50] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[10:29:50] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[10:29:51] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[10:29:51] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
 [IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
   '-c',
   'wget --version > /dev/null\n' +
@@ -143,5 +181,292 @@ Cancelling previous shutdown timeout
     'fi\n' +
     'exit 0'
 ]
+[10:29:51] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[10:29:51] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[10:29:53] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[10:29:53] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
 New EH opened, aborting shutdown
-[11:53:30] New EH opened, aborting shutdown
+[10:34:50] New EH opened, aborting shutdown
+[10:34:51] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[10:34:51] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[10:35:42] [127.0.0.1][ab80e852][ExtensionHostConnection] The client has reconnected.
+[12:05:04] [127.0.0.1][eff6860e][ManagementConnection] New connection established.
+[12:05:04] [127.0.0.1][73d11b1a][ExtensionHostConnection] New connection established.
+[12:05:04] [127.0.0.1][73d11b1a][ExtensionHostConnection] <2937087> Launched Extension Host Process.
+[12:05:04] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[12:05:04] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[12:05:04] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[12:05:04] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[12:05:04] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[12:05:04] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[12:05:05] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[12:05:05] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[12:05:05] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[12:05:05] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[12:05:05] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[12:05:05] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[12:05:05] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[12:05:05] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[12:05:05] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[12:05:05] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    "\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q --header='Metadata:true' -O - http://169.254.169.254/metadata/instance?api-version=2019-03-11\n" +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    "\t\tcurl --connect-timeout 7 -s --header='Metadata:true' http://169.254.169.254/metadata/instance?api-version=2019-03-11\n" +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    '\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q  -O - http://169.254.169.254/latest/meta-data/instance-id\n' +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    '\t\tcurl --connect-timeout 7 -s  http://169.254.169.254/latest/meta-data/instance-id\n' +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    '\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q  -O - http://169.254.169.254/metadata/v1/id\n' +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    '\t\tcurl --connect-timeout 7 -s  http://169.254.169.254/metadata/v1/id\n' +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    "\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q --header='Metadata-Flavor:Google' -O - http://metadata.google.internal/computeMetadata/v1/instance/id\n" +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    "\t\tcurl --connect-timeout 7 -s --header='Metadata-Flavor:Google' http://metadata.google.internal/computeMetadata/v1/instance/id\n" +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[12:05:07] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[12:05:07] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[12:05:07] [127.0.0.1][eff6860e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[12:05:07] [127.0.0.1][73d11b1a][ExtensionHostConnection] <2937087> Extension Host Process exited with code: 0, signal: null.
+[12:05:11] [127.0.0.1][b57bbc92][ManagementConnection] New connection established.
+[12:05:11] [127.0.0.1][5afa0db2][ExtensionHostConnection] New connection established.
+[12:05:11] [127.0.0.1][5afa0db2][ExtensionHostConnection] <2937751> Launched Extension Host Process.
+[12:05:11] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[12:05:11] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[12:05:12] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[12:05:12] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[12:05:12] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[12:05:12] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[12:05:12] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[12:05:12] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[12:05:12] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[12:05:12] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    "\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q --header='Metadata:true' -O - http://169.254.169.254/metadata/instance?api-version=2019-03-11\n" +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    "\t\tcurl --connect-timeout 7 -s --header='Metadata:true' http://169.254.169.254/metadata/instance?api-version=2019-03-11\n" +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    '\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q  -O - http://169.254.169.254/latest/meta-data/instance-id\n' +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    '\t\tcurl --connect-timeout 7 -s  http://169.254.169.254/latest/meta-data/instance-id\n' +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    '\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q  -O - http://169.254.169.254/metadata/v1/id\n' +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    '\t\tcurl --connect-timeout 7 -s  http://169.254.169.254/metadata/v1/id\n' +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    "\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q --header='Metadata-Flavor:Google' -O - http://metadata.google.internal/computeMetadata/v1/instance/id\n" +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    "\t\tcurl --connect-timeout 7 -s --header='Metadata-Flavor:Google' http://metadata.google.internal/computeMetadata/v1/instance/id\n" +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[12:05:12] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[12:05:12] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[12:05:13] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[12:05:13] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[12:05:13] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[12:05:13] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[12:05:14] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[12:05:14] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[IPC Library: Pty Host]  WARN Persistent process "9": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "9"
+[IPC Library: Pty Host]  INFO Persistent process "9": Replaying 19 chars and 1 size events
+[12:06:33] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[12:06:33] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[12:10:04] [127.0.0.1][ab80e852][ExtensionHostConnection] <2659504> Extension Host Process exited with code: 0, signal: null.
+[12:10:13] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[12:10:13] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[12:15:17] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[12:15:17] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[12:21:17] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[12:21:17] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[12:27:17] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[12:27:17] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[12:33:17] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[12:33:17] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[12:38:17] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[12:38:17] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[12:43:17] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[12:43:17] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[12:48:18] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[12:48:18] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[12:53:11] [127.0.0.1][5afa0db2][ExtensionHostConnection] The client has reconnected.
+[13:02:20] [127.0.0.1][0f3a98a2][ManagementConnection] New connection established.
+[13:02:20] [127.0.0.1][ca3a22f9][ExtensionHostConnection] New connection established.
+[13:02:20] [127.0.0.1][ca3a22f9][ExtensionHostConnection] <3164468> Launched Extension Host Process.
+[13:02:20] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[13:02:20] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[13:02:20] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[13:02:20] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[13:02:20] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[13:02:20] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[13:02:20] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[13:02:20] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[13:02:20] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[13:02:20] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[13:02:20] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[13:02:20] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[13:02:21] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[13:02:21] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    "\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q --header='Metadata:true' -O - http://169.254.169.254/metadata/instance?api-version=2019-03-11\n" +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    "\t\tcurl --connect-timeout 7 -s --header='Metadata:true' http://169.254.169.254/metadata/instance?api-version=2019-03-11\n" +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    '\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q  -O - http://169.254.169.254/latest/meta-data/instance-id\n' +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    '\t\tcurl --connect-timeout 7 -s  http://169.254.169.254/latest/meta-data/instance-id\n' +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    '\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q  -O - http://169.254.169.254/metadata/v1/id\n' +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    '\t\tcurl --connect-timeout 7 -s  http://169.254.169.254/metadata/v1/id\n' +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[IPC Library: Pty Host]  WARN Shell integration cannot be enabled for executable "/bin/sh" and args [
+  '-c',
+  'wget --version > /dev/null\n' +
+    'if [ $? -eq 0 ]\n' +
+    'then\n' +
+    "\twget --connect-timeout=7 --tries=1 --dns-timeout=7 -q --header='Metadata-Flavor:Google' -O - http://metadata.google.internal/computeMetadata/v1/instance/id\n" +
+    'else\n' +
+    '\tcurl --version > /dev/null\n' +
+    '\tif [ $? -eq 0 ]\n' +
+    '\tthen\n' +
+    "\t\tcurl --connect-timeout 7 -s --header='Metadata-Flavor:Google' http://metadata.google.internal/computeMetadata/v1/instance/id\n" +
+    '\tfi\n' +
+    'fi\n' +
+    'exit 0'
+]
+[13:02:21] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[13:02:21] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[IPC Library: Pty Host]  WARN Persistent process "9": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "9"
+[IPC Library: Pty Host]  INFO Persistent process "9": Replaying 19 chars and 1 size events
+[13:02:23] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.10]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.74.0.
+[13:02:23] [/home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.4.0]: Extension is not compatible with Code 1.72.2. Extension requires: ^1.75.0-20230123.
+[13:04:13] [127.0.0.1][0f3a98a2][ManagementConnection] The client has reconnected.
+[13:04:13] [127.0.0.1][ca3a22f9][ExtensionHostConnection] The client has reconnected.
+[13:07:08] [127.0.0.1][ca3a22f9][ExtensionHostConnection] The client has reconnected.
+[13:07:20] [127.0.0.1][5afa0db2][ExtensionHostConnection] <2937751> Extension Host Process exited with code: 0, signal: null.
+[16:07:21] [127.0.0.1][ca3a22f9][ExtensionHostConnection] <3164468> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[16:07:21] Last EH closed, waiting before shutting down
+Last EH closed, shutting down
+[16:12:21] Last EH closed, shutting down

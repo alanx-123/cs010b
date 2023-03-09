@@ -1,0 +1,39 @@
+2023-03-07 20:36:46.669 [info] 
+
+
+
+
+2023-03-07 20:36:46.695 [info] Extension host agent started.
+2023-03-07 20:36:46.796 [info] [127.0.0.1][ef69672c][ManagementConnection] New connection established.
+2023-03-07 20:36:46.827 [info] [127.0.0.1][0d071446][ExtensionHostConnection] New connection established.
+2023-03-07 20:36:46.905 [info] [127.0.0.1][0d071446][ExtensionHostConnection] <24610> Launched Extension Host Process.
+2023-03-07 20:36:47.108 [info] Deleted from disk ms-vscode.cpptools /home/csmajs/txia024/.vscode-server/extensions/ms-vscode.cpptools-1.14.4-linux-x64
+2023-03-07 20:36:47.217 [info] Deleted from disk streetsidesoftware.code-spell-checker /home/csmajs/txia024/.vscode-server/extensions/streetsidesoftware.code-spell-checker-2.19.0
+2023-03-07 20:36:47.412 [info] Deleted from disk ms-python.vscode-pylance /home/csmajs/txia024/.vscode-server/extensions/ms-python.vscode-pylance-2023.2.20
+2023-03-07 20:36:47.519 [info] Deleted from disk ms-vsliveshare.vsliveshare /home/csmajs/txia024/.vscode-server/extensions/ms-vsliveshare.vsliveshare-1.0.5834
+2023-03-07 20:36:47.519 [info] Deleted from disk ms-python.python /home/csmajs/txia024/.vscode-server/extensions/ms-python.python-2023.2.0
+2023-03-07 20:36:47.590 [error] [File Watcher (parcel)] Unexpected error: No such file or directory (EUNKNOWN) (path: /home/csmajs/txia024)
+2023-03-07 20:36:47.591 [error] [File Watcher (universal)] restarting watcher after error: No such file or directory
+2023-03-07 20:36:57.974 [info] [127.0.0.1][ef69672c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-03-07 20:36:58.010 [info] [127.0.0.1][0d071446][ExtensionHostConnection] <24610> Extension Host Process exited with code: 0, signal: null.
+2023-03-07 20:36:58.010 [info] Cancelling previous shutdown timeout
+2023-03-07 20:36:58.010 [info] Last EH closed, waiting before shutting down
+2023-03-07 20:37:01.526 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-03-07 20:37:01.526 [info] Cancelling previous shutdown timeout
+2023-03-07 20:37:01.568 [info] [127.0.0.1][7c57a27c][ManagementConnection] New connection established.
+2023-03-07 20:37:01.589 [info] [127.0.0.1][0e342b8a][ExtensionHostConnection] New connection established.
+2023-03-07 20:37:01.599 [info] [127.0.0.1][0e342b8a][ExtensionHostConnection] <29837> Launched Extension Host Process.
+2023-03-07 20:37:04.752 [info] [127.0.0.1][7c57a27c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-03-07 20:37:04.767 [info] [127.0.0.1][0e342b8a][ExtensionHostConnection] <29837> Extension Host Process exited with code: 0, signal: null.
+2023-03-07 20:37:04.767 [info] Cancelling previous shutdown timeout
+2023-03-07 20:37:04.767 [info] Last EH closed, waiting before shutting down
+2023-03-07 20:37:10.546 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-03-07 20:37:10.546 [info] Cancelling previous shutdown timeout
+2023-03-07 20:37:10.605 [info] [127.0.0.1][ca81a8d2][ManagementConnection] New connection established.
+2023-03-07 20:37:10.626 [info] [127.0.0.1][9d95291c][ExtensionHostConnection] New connection established.
+2023-03-07 20:37:10.633 [info] [127.0.0.1][9d95291c][ExtensionHostConnection] <30921> Launched Extension Host Process.
+2023-03-07 20:42:10.547 [info] New EH opened, aborting shutdown
+2023-03-07 21:52:51.389 [info] [127.0.0.1][ca81a8d2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-03-07 21:52:51.415 [info] [127.0.0.1][9d95291c][ExtensionHostConnection] <30921> Extension Host Process exited with code: 0, signal: null.
+2023-03-07 21:52:51.416 [info] Last EH closed, waiting before shutting down
+2023-03-07 21:57:51.417 [info] Last EH closed, shutting down
